@@ -1,4 +1,4 @@
-package hw6;
+package com.zayats.hw6;
 
 public class Garage{
 

@@ -1,4 +1,4 @@
-package hw6;
+package com.zayats.hw6;
 
 public enum Manufacturer {
     ITALIA("Италия"), GERMANY("Германия"), JAPANY("Япония"), FRANCE("Франция");
@@ -11,3 +11,5 @@ public enum Manufacturer {
         return russianName;
     }
 }
+
+

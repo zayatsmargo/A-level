@@ -1,12 +1,12 @@
-package hw6;
+package com.zayats.hw6;
 
 public class Car {
-    private String manufacturer;
+    private Manufacturer manufacturer;
     private Engine engine;
     private String color;
     private int petrol;
 
-    public Car(String manufacturer, Engine engine, String color) {
+    public Car(Manufacturer manufacturer, Engine engine, String color) {
         this.manufacturer = manufacturer;
         this.engine = engine;
         this.color = color;
@@ -21,9 +21,10 @@ public class Car {
         return petrol >= 50;
     }
 
-    public void setManufacturer(String manufacturer) {
+    public void setManufacturer(Manufacturer manufacturer) {
         this.manufacturer = manufacturer;
     }
+
 
 
     public void setEngine(Engine engine) {
@@ -45,11 +46,13 @@ public class Car {
     @Override
     public String toString() {
         return "Car{" +
-                "manufacturer='" + manufacturer + '\'' +
+                "manufacturer='" + manufacturer.getRussianName() + '\'' +
                 ", engine=" + engine +
                 ", color='" + color + '\'' +
                 ", petrol=" + petrol +
                 '}';
     }
+
+
 }
 
