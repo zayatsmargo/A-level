@@ -1,15 +1,24 @@
 package modul;
 
+import java.util.Arrays;
+
 public class Lock {
 
 
-    private final int[] mass;
-
+    private static int[] mass;
+    private static boolean isLock = false;
     public Lock(int[] array) {
-        mass = array;
+        if (!isLock) {
+            mass = array.clone();
+            isLock = true;
+        }
     }
 
-    public int[] getInputTableArray() {
+    public void printArray() {
+        System.out.println(Arrays.toString(mass));
+    }
+
+    public int[] getArray() {
         return (mass == null) ? null : mass.clone();
     }
 }
