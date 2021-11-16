@@ -7,7 +7,7 @@ public class UserInputService {
     private final Scanner scanner = new Scanner(System.in);
     private final Actions actions = new Actions();
 
-    public int[] arrayFill() {
+    public int[] createAndFillArray() {
         int arrayLength;
         do {
             System.out.println("Введите длину массива (число должно быть >= 10):");
@@ -42,6 +42,5 @@ public class UserInputService {
             }
         }while (!isSorted);
         System.out.println(Arrays.toString(array));
-        actions.everyThirdNumberInCube(array);
     }
 }
