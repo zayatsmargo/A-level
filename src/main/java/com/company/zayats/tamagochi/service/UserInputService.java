@@ -1,7 +1,6 @@
 package com.company.zayats.tamagochi.service;
 
 import com.company.zayats.tamagochi.actions.*;
-import com.сompanyzayats.tamagochi.actions.*;
 import com.company.zayats.tamagochi.model.Animal;
 import com.company.zayats.tamagochi.model.AnimalType;
 

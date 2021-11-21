@@ -13,8 +13,13 @@ public class Calculator {
         } else if (op == '*') {
             return x * y;
         } else if (op == '/') {
+            if (y == 0) {
+                throw new IllegalArgumentException();
+            }
             return x / y;
-        } else {
+        }
+
+        else {
             System.out.println("Error! Enter correct operator");
             throw new IllegalArgumentException();
         }

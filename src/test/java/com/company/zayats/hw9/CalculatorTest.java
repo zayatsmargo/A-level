@@ -4,6 +4,8 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class CalculatorTest {
+
+
     @Test
     public void resultAddition() {
         double res = Calculator.calculate('+', 3, 2);
@@ -31,5 +33,10 @@ public class CalculatorTest {
     @Test
     public void resultException() {
         Assertions.assertThrows(IllegalArgumentException.class, () -> Calculator.calculate('3', 3, 2));
+    }
+
+    @Test
+    public void resultDivisionByZero() {
+        Assertions.assertThrows(IllegalArgumentException.class, () -> Calculator.calculate('/', 3, 0));
     }
 }
