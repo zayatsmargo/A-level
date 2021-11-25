@@ -11,24 +11,23 @@ public abstract class Car implements Recovery{
     private final int year;
     private final String colour;
     protected double fuel;
+    protected final double consumption;
 
-    public Car(String series, int year, String colour, double fuel) {
+    public Car(String series, int year, String colour, double fuel, double consumption) {
         this.series = series;
         this.year = year;
         this.colour = colour;
         this.fuel = fuel;
+        this.consumption = consumption;
     }
 
     public void move(){
-        fuel -= 5;
-        if (fuel == 0){
+        if((fuel -= consumption) > 0 && consumption <= fuel){
             move();
         }
     }
 
-    public void showStatics(){
-        System.out.println(this);
-    }
+     abstract void showStatics();
 
     @Override
     public String toString() {
@@ -44,4 +43,5 @@ public abstract class Car implements Recovery{
     public void refuel() {
         recovery.refuel();
     }
+
 }
