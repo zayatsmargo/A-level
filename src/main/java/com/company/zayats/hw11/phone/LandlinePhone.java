@@ -11,13 +11,9 @@ public class LandlinePhone extends Phone {
     private boolean answerphone;
     private boolean display;
 
-    public LandlinePhone() {
-    }
-
-    public LandlinePhone(Phone phone){
-     this.answerphone = ((LandlinePhone) phone).isAnswerphone();
-     this.display = ((LandlinePhone) phone).isDisplay();
-        this.isBroken = phone.isBroken;
+    public LandlinePhone(boolean answerphone, boolean display) {
+        this.answerphone = answerphone;
+        this.display = display;
     }
 
     public void connectWire(){

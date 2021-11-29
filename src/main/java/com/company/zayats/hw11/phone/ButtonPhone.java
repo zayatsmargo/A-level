@@ -10,20 +10,16 @@ import java.util.Objects;
 public class ButtonPhone extends Phone {
     private int screen;
     private int camera;
-    private String CPU;
-    private int RAM;
+    private String cpu;
+    private int ram;
     private int storage;
 
-    public ButtonPhone() {
-    }
-
-    public ButtonPhone(Phone phone){
-        this.screen = ((ButtonPhone) phone).getScreen();
-        this.camera = ((ButtonPhone) phone).getCamera();
-        this.CPU = ((ButtonPhone) phone).getCPU();
-        this.RAM = ((ButtonPhone) phone).getRAM();
-        this.storage = ((ButtonPhone) phone).getStorage();
-        this.isBroken = phone.isBroken;
+    public ButtonPhone(int screen, int camera, String cpu, int ram, int storage) {
+        this.screen = screen;
+        this.camera = camera;
+        this.cpu = cpu;
+        this.ram = ram;
+        this.storage = storage;
     }
 
     public void pressButton(){
@@ -40,11 +36,11 @@ public class ButtonPhone extends Phone {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         ButtonPhone that = (ButtonPhone) o;
-        return screen == that.screen && camera == that.camera && RAM == that.RAM && storage == that.storage && Objects.equals(CPU, that.CPU);
+        return screen == that.screen && camera == that.camera && ram == that.ram && storage == that.storage && Objects.equals(cpu, that.cpu);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(screen, camera, CPU, RAM, storage, isBroken);
+        return Objects.hash(screen, camera, cpu, ram, storage, isBroken);
     }
 }

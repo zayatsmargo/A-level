@@ -10,19 +10,20 @@ public class Service {
         Phone phone1 = createReferencePhone(phone);
         phone1.isBroken = false;
         if (phone.isBroken) {
+            boolean isDifferent = !phone1.equals(phone) && phone1.hashCode() != phone.hashCode();
             if (phone instanceof Smartphone) {
-                if (!((Smartphone)phone1).equals(phone) && ((Smartphone)phone1).hashCode() != phone.hashCode()) {
+                if (isDifferent) {
                     System.out.println("Phones are different");
                 }
                 ((Smartphone) phone).takePhoto();
             } else if (phone instanceof ButtonPhone) {
-                if (!((ButtonPhone)phone1).equals(phone) && ((ButtonPhone)phone1).hashCode() != phone.hashCode()) {
+                if (isDifferent) {
                     System.out.println("Phones are different");
 
                 }
                 ((ButtonPhone) phone).pressButton();
             } else {
-                if (!((LandlinePhone)phone1).equals(phone) && ((LandlinePhone)phone1).hashCode() != phone.hashCode()) {
+                if (isDifferent) {
                     System.out.println("Phones are different");
                 }
                 ((LandlinePhone) phone).connectWire();
@@ -34,11 +35,13 @@ public class Service {
 
     private Phone createReferencePhone(Phone phone) {
         if (phone instanceof Smartphone) {
-            return new Smartphone(phone);
+            return new Smartphone(((Smartphone) phone).getScreen(), ((Smartphone) phone).getCamera(),
+                    ((Smartphone) phone).getCpu(), ((Smartphone) phone).getRam(), ((Smartphone) phone).getStorage());
         } else if (phone instanceof ButtonPhone) {
-            return new ButtonPhone(phone);
+            return new ButtonPhone(((ButtonPhone) phone).getScreen(), ((ButtonPhone) phone).getCamera(),
+                    ((ButtonPhone) phone).getCpu(), ((ButtonPhone) phone).getRam(), ((ButtonPhone) phone).getStorage());
         } else {
-            return new LandlinePhone(phone);
+            return new LandlinePhone(((LandlinePhone) phone).isAnswerphone(), ((LandlinePhone) phone).isDisplay());
         }
     }
 }
