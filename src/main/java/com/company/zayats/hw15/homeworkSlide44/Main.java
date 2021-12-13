@@ -1,4 +1,4 @@
-package com.company.zayats.hw15.Slide44;
+package com.company.zayats.hw15.homeworkSlide44;
 
 import java.util.ArrayList;
 

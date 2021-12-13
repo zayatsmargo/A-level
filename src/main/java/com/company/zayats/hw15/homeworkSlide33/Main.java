@@ -1,7 +1,4 @@
-package com.company.zayats.hw15.Slide33;
-
-import com.company.zayats.hw15.Slide33.Box;
-import com.company.zayats.hw15.Slide33.BoxVolumeComparator;
+package com.company.zayats.hw15.homeworkSlide33;
 
 import java.util.SortedSet;
 import java.util.TreeSet;

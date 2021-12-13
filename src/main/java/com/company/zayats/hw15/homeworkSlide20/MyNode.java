@@ -1,4 +1,4 @@
-package com.company.zayats.hw15.Slide20;
+package com.company.zayats.hw15.homeworkSlide20;
 
 import lombok.Getter;
 import lombok.Setter;

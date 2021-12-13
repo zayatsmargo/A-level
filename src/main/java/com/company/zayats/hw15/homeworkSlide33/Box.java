@@ -1,4 +1,4 @@
-package com.company.zayats.hw15.Slide33;
+package com.company.zayats.hw15.homeworkSlide33;
 
 public class Box {
     public int volume;

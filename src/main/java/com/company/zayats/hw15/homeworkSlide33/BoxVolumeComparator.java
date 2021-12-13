@@ -1,6 +1,4 @@
-package com.company.zayats.hw15.Slide33;
-
-import com.company.zayats.hw15.Slide33.Box;
+package com.company.zayats.hw15.homeworkSlide33;
 
 import java.util.Comparator;
 
