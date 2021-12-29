@@ -1,0 +1,13 @@
+type,series,model,diagonal,screen type,country,price
+Telephone,S-10,Samsung,none,QLD,none,200
+Telephone,A-1,Apple,none,ILEDs,none,212
+Telephone,M-2,Redmi,none,OLed,none,186
+Telephone,DR-79,Xiaomi,none,XLed,none,189
+Telephone,D-17,Nokia,none,LED,none,130
+Television,VTV-8,none,85,SLED,China,1500
+Television,NTE-248,none,75,SLED,German,1289
+Television,BR-57,none,83,SLED,France,1681
+Television,TP-5,none,58,SLED,Russian,1208
+Television,LD-123,none,79,SLED,Ukraine,1120
+Television,KF-77,none,92,SLED,USA,1762
+Television,KP-72,none,92,,USA,1762

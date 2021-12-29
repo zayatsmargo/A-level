@@ -1,0 +1,360 @@
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=BSNRxBKy@gmail.com, age=74, id=1)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=gVYzlnKA@gmail.com, age=52, id=2)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=FwxpQRFW@gmail.com, age=32, id=3)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=AjuMuhac@gmail.com, age=50, id=4)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=TJHFbrQh@gmail.com, age=43, id=5)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=qjsHosJT@gmail.com, age=57, id=6)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=pKpWGBcA@gmail.com, age=53, id=7)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=uQbtMyaV@gmail.com, age=58, id=8)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=pEWDyJCX@gmail.com, age=63, id=9)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=nlcQhCdm@gmail.com, age=40, id=10)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=WziXiLOJ@gmail.com, age=30, id=11)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=jDShdPXk@gmail.com, age=80, id=12)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=JMTdwaWH@gmail.com, age=32, id=13)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=xFFNxErr@gmail.com, age=25, id=14)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 28, 2021 8:39:06 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=usbdhWkE@gmail.com, age=80, id=15)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=JjoqDpXG@gmail.com, age=41, id=1)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ZWTdTPeI@gmail.com, age=50, id=2)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ungiOqWE@gmail.com, age=34, id=3)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=fqwpwqUn@gmail.com, age=26, id=4)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=xbGCUuRZ@gmail.com, age=40, id=5)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=AVfkaJZX@gmail.com, age=46, id=6)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=nnGMjXfA@gmail.com, age=40, id=7)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=Jwwnaaye@gmail.com, age=32, id=8)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=rfGtknxB@gmail.com, age=41, id=9)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=RbuvADCb@gmail.com, age=43, id=10)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=mYhUOwXT@gmail.com, age=69, id=11)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=CRqHdzcw@gmail.com, age=25, id=12)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=edvzNtQW@gmail.com, age=33, id=13)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=RLSwrhNA@gmail.com, age=30, id=14)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 28, 2021 8:39:19 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=brpZyzCU@gmail.com, age=50, id=15)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=srqwZhJb@gmail.com, age=72, id=1)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ouUjCbeN@gmail.com, age=39, id=2)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=QOHWHmsm@gmail.com, age=50, id=3)] [[Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=fMPfNuNr@gmail.com, age=67, id=4)] [[Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=cJgWvGpX@gmail.com, age=39, id=5)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=aicrQwsi@gmail.com, age=75, id=6)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=jstyzORP@gmail.com, age=80, id=7)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=dNoEZRdS@gmail.com, age=62, id=8)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=mMUoKfCj@gmail.com, age=51, id=9)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=cOQZHNim@gmail.com, age=52, id=10)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=kdKSMHci@gmail.com, age=23, id=11)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=qGdkUuEU@gmail.com, age=52, id=12)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=KWTJTJWC@gmail.com, age=69, id=13)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=BltaPkvH@gmail.com, age=32, id=14)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 28, 2021 9:22:07 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=QGMGQqdu@gmail.com, age=61, id=15)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=uhPWEfdl@gmail.com, age=25, id=1)] [[Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ATzdtCni@gmail.com, age=66, id=2)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=SIOJVkXN@gmail.com, age=23, id=3)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=mMqHVxdd@gmail.com, age=39, id=4)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=KtkKwZgz@gmail.com, age=71, id=5)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=KAOpfyHw@gmail.com, age=43, id=6)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=HGDgGxzU@gmail.com, age=71, id=7)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=oJEvhFVa@gmail.com, age=79, id=8)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=hjJLHuHR@gmail.com, age=37, id=9)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=vHJUavLy@gmail.com, age=59, id=10)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=zmVCutcj@gmail.com, age=75, id=11)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=SvTZJzkj@gmail.com, age=54, id=12)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=dQbqFBdn@gmail.com, age=25, id=13)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=LheccGzf@gmail.com, age=21, id=14)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 9:23:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=SiYxRNvP@gmail.com, age=40, id=15)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=gVhqWqzF@gmail.com, age=32, id=1)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=uxlKhiMs@gmail.com, age=60, id=2)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=oisUHVep@gmail.com, age=40, id=3)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=xhcUolgj@gmail.com, age=39, id=4)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=PCRgYcom@gmail.com, age=50, id=5)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=woOjwDAf@gmail.com, age=69, id=6)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=oGxvTlaP@gmail.com, age=73, id=7)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=DWUccdqy@gmail.com, age=61, id=8)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=RXTeOnGE@gmail.com, age=22, id=9)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=UDwpNznu@gmail.com, age=45, id=10)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=hkuLZDCN@gmail.com, age=64, id=11)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ojxzEDEh@gmail.com, age=36, id=12)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=HaMsMrkh@gmail.com, age=53, id=13)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=OzUhzhES@gmail.com, age=77, id=14)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 28, 2021 9:23:53 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=PoWijjNY@gmail.com, age=34, id=15)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:09:36 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=kCPzhGLg@gmail.com, age=23, id=1)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=nRmklvwV@gmail.com, age=67, id=2)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=rsRuAUpY@gmail.com, age=60, id=3)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=wtIjIaJH@gmail.com, age=79, id=4)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=xqKsFSVS@gmail.com, age=80, id=5)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=YBiltIdM@gmail.com, age=73, id=6)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=uBjVpSsV@gmail.com, age=33, id=7)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=xEtzHqKh@gmail.com, age=52, id=8)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=CuvviYZI@gmail.com, age=71, id=9)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=vDQJHSmw@gmail.com, age=27, id=10)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=yHnJPhff@gmail.com, age=61, id=11)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=kBigHlKJ@gmail.com, age=69, id=12)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=WeyCHSoa@gmail.com, age=63, id=13)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=TtctWujh@gmail.com, age=34, id=14)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 29, 2021 4:09:37 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=MCiDWeor@gmail.com, age=72, id=15)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=FJIoDLTC@gmail.com, age=20, id=1)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=gjdCnLRP@gmail.com, age=73, id=2)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=AAAzclHc@gmail.com, age=27, id=3)] [[Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=oKjJpZxh@gmail.com, age=75, id=4)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=LZltbSvZ@gmail.com, age=42, id=5)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=yyBNreov@gmail.com, age=51, id=6)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ttGtMWWA@gmail.com, age=75, id=7)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=EDPvfcAe@gmail.com, age=61, id=8)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=JXQiYDKs@gmail.com, age=40, id=9)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=AjVQxotU@gmail.com, age=54, id=10)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=UojKOJon@gmail.com, age=17, id=11)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=XLfAXtCS@gmail.com, age=51, id=12)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=PiwwakBR@gmail.com, age=34, id=13)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=QiOatAsY@gmail.com, age=55, id=14)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:23:57 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=kzrBwsSz@gmail.com, age=52, id=15)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=uPKIFmNI@gmail.com, age=32, id=1)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=wMKpVVyo@gmail.com, age=29, id=2)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=jDOCIyDB@gmail.com, age=53, id=3)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=BYiHLYIN@gmail.com, age=56, id=4)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=oHOCdSYW@gmail.com, age=18, id=5)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=nedlSxQE@gmail.com, age=68, id=6)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ifYgiVgh@gmail.com, age=51, id=7)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=MAgqCuzZ@gmail.com, age=53, id=8)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=SsyUWIGW@gmail.com, age=52, id=9)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=vFomVPBe@gmail.com, age=27, id=10)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=BeBhPceP@gmail.com, age=18, id=11)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=vBvgACWS@gmail.com, age=25, id=12)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=SHoqRgIb@gmail.com, age=16, id=13)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=YDtUMbHg@gmail.com, age=31, id=14)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:25:04 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=JLFFUlKF@gmail.com, age=57, id=15)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=RJhzEMLB@gmail.com, age=47, id=1)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=wifCdIQu@gmail.com, age=71, id=2)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=FxIvbsIO@gmail.com, age=71, id=3)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=IxybilgJ@gmail.com, age=42, id=4)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=EFGjbltv@gmail.com, age=73, id=5)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=SniGhKWJ@gmail.com, age=43, id=6)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=WavEMlZO@gmail.com, age=37, id=7)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=PqHZWiZu@gmail.com, age=49, id=8)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=oklaUzgP@gmail.com, age=37, id=9)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=RmshEIzL@gmail.com, age=68, id=10)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=swKxeEgY@gmail.com, age=68, id=11)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=eqsnVPJe@gmail.com, age=16, id=12)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ZguRPSIO@gmail.com, age=60, id=13)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=EVXSqrts@gmail.com, age=35, id=14)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 29, 2021 4:32:58 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=hVOUzsby@gmail.com, age=41, id=15)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ModtAzrS@gmail.com, age=47, id=1)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=ChfiNLwr@gmail.com, age=66, id=2)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=xHlvEszZ@gmail.com, age=20, id=3)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=BslaYcVi@gmail.com, age=28, id=4)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=HNpXVJhi@gmail.com, age=79, id=5)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=alTltpBx@gmail.com, age=29, id=6)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=LRWcelDu@gmail.com, age=28, id=7)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=xQauCXRm@gmail.com, age=48, id=8)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=otRwdLUX@gmail.com, age=35, id=9)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=BubdsXcJ@gmail.com, age=27, id=10)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=wdWHEhAq@gmail.com, age=44, id=11)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=VTzvWodW@gmail.com, age=57, id=12)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=FykNLGQY@gmail.com, age=61, id=13)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=yeBThYPw@gmail.com, age=49, id=14)] [[Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:42:26 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=edtdIGAq@gmail.com, age=60, id=15)] [[Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=QCqeGtvm@gmail.com, age=28, id=1)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=TfuPRVJY@gmail.com, age=66, id=2)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=fZTRPYFg@gmail.com, age=43, id=3)] [[Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=Oxkielvs@gmail.com, age=57, id=4)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=OfShSAnd@gmail.com, age=77, id=5)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1289, series='NTE-248', diagonal='75', country='German'}, Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=KjSphOyC@gmail.com, age=40, id=6)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=UVanqIpu@gmail.com, age=66, id=7)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=bpupVlgf@gmail.com, age=32, id=8)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=gmAipiFX@gmail.com, age=32, id=9)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=WXycTwsq@gmail.com, age=38, id=10)] [[Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=LzltwmyZ@gmail.com, age=32, id=11)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=RKiFZIwI@gmail.com, age=78, id=12)] [[Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=MhgOvosO@gmail.com, age=38, id=13)] [[Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=PFBJwFiA@gmail.com, age=78, id=14)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='OLed', price=186, series='M-2', model='Redmi'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 29, 2021 4:46:51 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=vBDQWOWG@gmail.com, age=33, id=15)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=qTWTVcSa@gmail.com, age=46, id=1)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=mWFadsbt@gmail.com, age=52, id=2)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=FSnFgkto@gmail.com, age=62, id=3)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=khiZeedc@gmail.com, age=67, id=4)] [[Telephone{screenType='XLed', price=189, series='DR-79', model='Xiaomi'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=npgMHBxj@gmail.com, age=34, id=5)] [[Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=DNHkbZdt@gmail.com, age=44, id=6)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=HtYRTPJV@gmail.com, age=38, id=7)] [[Television{screenType='SLED', price=1762, series='KF-77', diagonal='92', country='USA'}, Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=onGLKMTk@gmail.com, age=60, id=8)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}, Television{screenType='SLED', price=1208, series='TP-5', diagonal='58', country='Russian'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=OUSrnTyb@gmail.com, age=38, id=9)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=tAXmHAro@gmail.com, age=17, id=10)] [[Television{screenType='SLED', price=1120, series='LD-123', diagonal='79', country='Ukraine'}, Telephone{screenType='LED', price=130, series='D-17', model='Nokia'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=EmGTrMLe@gmail.com, age=59, id=11)] [[Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=xjLAqbCg@gmail.com, age=80, id=12)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=OpswfslA@gmail.com, age=72, id=13)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=hRvsvopY@gmail.com, age=36, id=14)] [[Television{screenType='SLED', price=1500, series='VTV-8', diagonal='85', country='China'}, Television{screenType='SLED', price=1681, series='BR-57', diagonal='83', country='France'}]]
+дек 29, 2021 4:56:30 PM com.company.zayats.modul2.services.ShopService createLogs
+INFO: [Customer(email=KXHBLNsM@gmail.com, age=54, id=15)] [[Telephone{screenType='QLD', price=200, series='S-10', model='Samsung'}, Telephone{screenType='ILEDs', price=212, series='A-1', model='Apple'}]]
