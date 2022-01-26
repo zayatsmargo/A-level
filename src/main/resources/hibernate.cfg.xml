@@ -34,6 +34,9 @@
         <mapping class="com.company.zayats.hw25.entity.Film"/>
         <mapping class="com.company.zayats.hw25.entity.Users"/>
         <mapping class="com.company.zayats.hw25.entity.SessionFilm"/>
+        <mapping class="com.company.zayats.hw24.entity.Device"/>
+        <mapping class="com.company.zayats.hw24.entity.Factory"/>
+
 
     </session-factory>
 
