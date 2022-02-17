@@ -9,13 +9,12 @@ public class Main {
         Integer number = 50;
         int resource = 0;
         Semaphore sem = new Semaphore(1);
-        final ExecutorService pool = Executors.newFixedThreadPool(100);
         final List<Future<Integer>> lists = new ArrayList<>();
-        final Callable<Integer> callable;
-        callable = new Increment(resource, sem, number);
+        final Callable<Integer> callable = new Increment(resource, sem, number);
 
         for (int i = 0; i < 100; i++) {
-            final Future<Integer> future = pool.submit(callable);
+            FutureTask<Integer> future = new FutureTask<>(callable);
+            new Thread(future).start();
             lists.add(future);
         }
 
@@ -27,8 +26,6 @@ public class Main {
             System.out.println("Variable : " + variable);
         } catch (ExecutionException | InterruptedException c) {
             System.out.println(c.getMessage());
-        } finally {
-            pool.shutdown();
         }
     }
 }
