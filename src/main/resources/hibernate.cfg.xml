@@ -25,7 +25,7 @@
             org.hibernate.dialect.PostgreSQL82Dialect
         </property>
 
-        <property name="hibernate.hbm2ddl.auto">create-drop</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
 
         <property name="show_sql">true</property>
         <property name="format_sql">true</property>
@@ -36,6 +36,14 @@
         <mapping class="com.company.zayats.hw25.entity.SessionFilm"/>
         <mapping class="com.company.zayats.hw24.entity.Device"/>
         <mapping class="com.company.zayats.hw24.entity.Factory"/>
+
+        <mapping class="com.company.zayats.modul3.entity.Subscriber"/>
+        <mapping class="com.company.zayats.modul3.entity.Tariff"/>
+        <mapping class="com.company.zayats.modul3.entity.Message"/>
+        <mapping class="com.company.zayats.modul3.entity.Equipment"/>
+        <mapping class="com.company.zayats.modul3.entity.Activity"/>
+        <mapping class="com.company.zayats.modul3.entity.Call"/>
+        <mapping class="com.company.zayats.modul3.entity.Internet"/>
 
 
     </session-factory>
